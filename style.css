@@ -262,7 +262,119 @@ body{
         color: rgb(255, 255, 255);
         font-size: 18px;
         font-weight: 600;
-                
+}
+.donate-box{
+        text-align: center;
+}
+.donate-value{
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+        margin-bottom: 32px;
+}
+.value-btn{
+        padding: 40px;
+        background-color: white;
+        color: rgba(14, 14, 14, 0.8);
+        font-size: 40px;
+        font-weight: 700;
+        box-sizing: border-box;
+        border: 1px solid rgba(14, 14, 14, 0.15);
+        border-radius: 16px;
+}
+.btn-bg-colour{
+        
+        background: rgb(198, 228, 214);
+}
+.other-amount{
+        width: 1032px;
+        height: 64px;
+        margin: 0 auto;
+        border: none;
+        text-align: center;
+        padding: 20px 40px 20px 40px;
+        box-sizing: border-box;
+        border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+        background: rgb(255, 255, 255);
+        color: rgba(14, 14, 14, 0.3);
+        font-size: 22px;
+        font-weight: 400;
 
 }
+.other-value{
+        text-align: center;
+        margin-bottom: 32px;
+}
+.submit-btn{
+        text-align: center;
+        margin-bottom: 80px;
+}
+.donate-now{
+        padding: 17px 34px;
+        box-sizing: border-box;
+        border: 1px solid rgba(14, 14, 14, 0.1);
+        border-radius: 8px;
+        background: rgb(0, 106, 80);
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+        font-weight: 600;
+        
+}
+.newsltter-container{
+        max-width: 1280px;
+        height: 395px;
+        margin: 0 auto;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 24px;
+        background: rgb(198, 228, 214);
+        margin-bottom: 80px;
+}
+.newsletter-title{
+        color: rgb(14, 14, 14);
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 16px;
+        
+}
+.newsletter-description{
+        color: rgba(14, 14, 14, 0.7);
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 24px;
+}
+.email-input{
+        padding: 0 0 0 40px;
+        width: 600px;
+        height: 55px;
+        border: none;
+        color: rgba(14, 14, 14, 0.3);
+        font-size: 16px;
+        font-weight: 400;
+        text-align: left;
+        border-radius: 8px 0px 0px 8px;
+        background: rgb(255, 255, 255);
+
+}
+.subscribe-btn{
+        padding: 16.5px 34px 16.5px 34px;
+        margin-left: -3px;
+        border: none;
+        border-radius: 0px 8px 8px 0px;
+        background: rgb(0, 106, 80);
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+        font-weight: 600;
+        
+}
+.subscribe{
+        margin-bottom: 24px;
+}
+.newsletter-sub-title{
+        color: rgba(14, 14, 14, 0.7);
+        font-size: 16px;
+        font-weight: 400;
                 
+}
