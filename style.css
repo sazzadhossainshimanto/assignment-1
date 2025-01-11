@@ -104,3 +104,81 @@ body{
         font-size: 16px;
         font-weight: 400;
 }
+.vision {
+        max-width: 1280px;
+        margin: 0 auto;
+        margin-bottom: 32px;
+}
+
+.vision-titel {
+        color: rgb(14, 14, 14);
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 24px;
+}
+
+.vision-description {
+        color: rgba(14, 14, 14, 0.7);
+        font-size: 16px;
+        font-weight: 400;
+
+}
+.vision-container{
+        max-width: 1280px;
+        margin: 0 auto;
+        display: flex;
+        gap: 24px;
+}
+.vision-box{
+        width: 410px;
+        height: 325px;
+        padding: 32px;
+        background-color: white;
+        box-sizing: border-box;
+        border-radius: 16px;
+        margin-bottom: 32px;
+        
+}
+.vision-contain-1{
+        background: rgba(84, 144, 245, 0.2);
+}
+.vision-contain-2{
+        background: rgb(198, 228, 214);
+}
+.vision-contain-3{
+        background: rgb(247, 235, 207);
+}
+.vision-contain-title{
+        color: rgba(14, 14, 14, 0.8);
+        font-size: 20px;
+        font-weight: 700;
+        margin: 24px 0 12px;
+              
+}
+.vision-contain-description{
+        color: rgba(14, 14, 14, 0.7);
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 24px;
+}
+.vision-btn{
+        padding: 11px 20px;
+        border-radius: 8px;
+        border: none;
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+        font-weight: 600;
+        
+}
+.btn-1{
+                background: rgb(84, 144, 245);
+}
+.btn-2{
+
+         margin-top: 15px;
+        background: rgb(9, 161, 92);
+}
+.btn-3{
+     
+        background: rgb(255, 194, 57);
+}
