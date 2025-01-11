@@ -378,3 +378,28 @@ body{
         font-weight: 400;
                 
 }
+.footer-container{
+        width: 1583px;
+        height: 140px;
+        background-color: white;
+        text-align: center;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 50px 160px ;
+
+}
+.footer-title{
+        color: rgb(14, 14, 14);
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 32px; 
+}
+hr{     
+        margin-bottom: 32px;
+        border: 1px solid rgba(14, 14, 14, 0.1);
+        margin: 32px 0px;
+}
+.media-icon{
+        margin-left: 13px;
+}
