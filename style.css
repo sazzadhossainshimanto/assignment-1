@@ -455,3 +455,15 @@ td{
 .option-style{
         text-align: center;
 }
+button:hover{
+        cursor: pointer;
+        background-color:rgba(0, 90, 106, 0.671);
+}
+.subscribe-btn:hover{
+        cursor: pointer;
+        background-color: rgba(0, 90, 106, 0.671);
+}
+select:hover{
+        cursor: pointer;
+        background-color: #218b45;
+}
